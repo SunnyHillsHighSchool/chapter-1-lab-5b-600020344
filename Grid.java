@@ -65,10 +65,10 @@ public class Grid
           {
             full=false;
             //System.out.println("null");
-          }
-            
+          } else {
 					//else
           System.out.println(d);
+          }
       }
     }
 		return full;
